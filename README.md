@@ -1,6 +1,10 @@
-### Hi there 👋
+<h1 align="center"><b>Hi , I'm Eren Gaygusuz</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### About Me
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer,;Game+Developer,;Unity+Developer,;Full+Stack+Developer"></a>
+</p>
+
+## About Me
 
 ⚡ &nbsp; I’m open for job opportunities <br>
 🔭 &nbsp; I’m currently a master degree student at Computer Engineering Department of Gazi University <br>
@@ -8,7 +12,9 @@
 🌱 &nbsp; I’m currently learning Laravel, Dependency Injection Frameworks and Design Patterns <br>
 💬 &nbsp; Ask me anything about Unity 
 
-### Skills
+<br>
+
+## Skills
 
 🖥️ Programming & Markup Languages:
 
@@ -80,3 +86,16 @@
 ![Docker](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
+
+<br>
+
+## Let's Contact
+
+![Docker](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)&nbsp;
