@@ -101,19 +101,6 @@
 
 <br>
 
-<div>
-
-## My Activities
-<a href="https://github.com/erengaygusuz">
-<img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=erengaygusuz&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/Pepyn0">
-<img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erengaygusuz&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-</a>
-</div>
-
-<br>
-
 ## Let's Contact
 
 ![Docker](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
