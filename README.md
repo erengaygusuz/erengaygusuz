@@ -19,7 +19,7 @@
 ## About Me
 
 ⚡ &nbsp; I’m open for job opportunities <br>
-🔭 &nbsp; I’m currently a master degree student at Computer Engineering Department of Gazi University <br>
+🔭 &nbsp; I’m a Software Engineer <br>
 😄 &nbsp; I’m good at game development and full-stack development <br>
 🌱 &nbsp; I’m currently learning ASP.NET Core Best Practices and ASP.NET Core MVC <br>
 💬 &nbsp; Ask me anything about Unity 
