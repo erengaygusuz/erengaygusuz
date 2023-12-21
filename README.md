@@ -16,7 +16,7 @@ MySQL, MSSQL, Oracle, MongoDB
 
 📦 Libraries & Frameworks & Standards: 
 
-ASPNET Core 6 MVC, ASP NET Core 6 WEB API, Entity Framework Core 6, Angular, Autofac, Fluent Validation, Dapper, Dependency Injection with IoC, Generic Repository Design Pattern, Factory Method Design Pattern, Abstract Factory Design Pattern, Windows Forms, Bootstrap, Laravel, Open Street Map, VContainer Dependency Injection, JSON Web Tokens (JWT), Code Signing Certification, SSL Certification, BeautifulSoup, Pillow, AWSSDK, Tobii Gaming SDK, MailKit, JSON
+ASPNET Core MVC, ASP NET Core WEB API, Entity Framework Core, Angular, Autofac, Fluent Validation, Dapper, Dependency Injection with IoC, Generic Repository Design Pattern, Factory Method Design Pattern, Abstract Factory Design Pattern, Windows Forms, Bootstrap, Laravel, Open Street Map, VContainer Dependency Injection, JSON Web Tokens (JWT), Code Signing Certification, SSL Certification, BeautifulSoup, Pillow, AWSSDK, Tobii Gaming SDK, MailKit, JSON
 
 <br>
 
